@@ -1,0 +1,47 @@
+body
+{
+  text-align: center;
+  font-size: 30pt;
+  background-color: #000000;
+  color: #ff0000;
+  font-family: en1,fa1;
+}
+
+
+
+
+@font-face {
+  font-family: en1;
+  src: url('fonts/d.ttf');
+}
+@font-face {
+  font-family: fa1;
+  src: url('fonts/c.ttf');
+}
+@font-face {
+  font-family: fa2;
+  src: url('fonts/f1.ttf');
+}
+
+
+
+.box {
+      width: 100%;
+      height: 300pt;
+      background-color: #f00;
+    }
+
+.myket1 {
+      width: 100%;
+      height: wrap_content;
+      background-color: #111;
+      padding-top: 30pt;
+    }
+    
+    
+    
+#test1{
+  font-size: 40pt;
+  font-family: fa2;
+  color: #000;
+}
