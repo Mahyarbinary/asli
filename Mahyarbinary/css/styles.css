@@ -12,15 +12,15 @@ body
 
 @font-face {
   font-family: en1;
-  src: url('/fonts/d.ttf');
+  src: url('fonts/d.ttf');
 }
 @font-face {
   font-family: fa1;
-  src: url('/fonts/c.ttf');
+  src: url('fonts/c.ttf');
 }
 @font-face {
   font-family: fa2;
-  src: url('/fonts/f1.ttf');
+  src: url('fonts/f1.ttf');
 }
 
 
